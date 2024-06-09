@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AlvaroLial210
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning c++ and game design
+- 📫 How to reach me email: alvarolialeti@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am from Paraguay
